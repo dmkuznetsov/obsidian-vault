@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# except
+!.gitignore
+!README.md
+!*/
+
+!.obsidian/*
+!.obsidian/icons/*
+!.obsidian/icons/font-awesome-regular/*
+!.obsidian/plugins/*
+!.obsidian/plugins/obsidian-hider/*
+!.obsidian/plugins/obsidian-icon-folder/*
+!.obsidian/plugins/obsidian-minimal-settings/*
+!.obsidian/themes/*
+!.obsidian/themes/Minimal/*
