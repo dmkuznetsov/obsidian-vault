@@ -2,5 +2,6 @@
   "promptDelete": false,
   "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "useMarkdownLinks": true
 }
